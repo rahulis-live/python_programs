@@ -37,6 +37,6 @@ git clone https://github.com/rahulis-live/python_programs.git
 cd python_programs
 ```
 
-👤 Author
+👨‍💻 Author
 Name: Rahul Chandran
 LinkedIn: Rahul Chandran
