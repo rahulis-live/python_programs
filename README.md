@@ -36,7 +36,3 @@ Welcome to my collection of Python programs! This repository contains beginner-t
 git clone https://github.com/rahulis-live/python_programs.git
 cd python_programs
 ```
-
-👨‍💻 Author
-Name: Rahul Chandran
-LinkedIn: Rahul Chandran
