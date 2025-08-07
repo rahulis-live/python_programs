@@ -1,0 +1,7 @@
+
+Student name is r 
+Place is a 
+Age is 2
+Student name is a 
+Place is 7 
+Age is 4
